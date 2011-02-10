@@ -1,4 +1,4 @@
-=== Auto-tags ===
+=== Feedback Tab ===
 Contributors: Scott Underhill
 Donate link: http://www.monyta.com/
 Tags: feedback tab, feedback, customer data,contact form,bugs,questions,contact
